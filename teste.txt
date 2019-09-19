@@ -1,0 +1,2 @@
+remoção da linha
+commit com o vscode
